@@ -198,6 +198,14 @@ button:hover,
 .button.button-reddit:focus {
   filter: brightness(90%) }
 
+/* Minecraft */
+.button.button-minecraft {
+  color: #FFFFFF;
+  background-color: #558B2F }
+.button.button-reddit:hover,
+.button.button-reddit:focus {
+  filter: brightness(90%) }
+
 /* Skoob */
 .button.button-skoob {
   color: #FFFFFF;
